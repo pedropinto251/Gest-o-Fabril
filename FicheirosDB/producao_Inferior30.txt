@@ -1,0 +1,48 @@
+Código da Máquina: CO002
+Produção Semanal: 25
+Produção Semanal Esperada: 73.5
+
+Código da Máquina: PR5678
+Produção Semanal: 10
+Produção Semanal Esperada: 58.8
+
+Código da Máquina: FU9012
+Produção Semanal: 25
+Produção Semanal Esperada: 73.5
+
+Código da Máquina: CO001
+Produção Semanal: 25
+Produção Semanal Esperada: 73.5
+
+Código da Máquina: FU0001
+Produção Semanal: 25
+Produção Semanal Esperada: 73.5
+
+Código da Máquina: PR6969
+Produção Semanal: 16
+Produção Semanal Esperada: 49.0
+
+Código da Máquina: CO002
+Produção Semanal: 25
+Produção Semanal Esperada: 73.5
+
+Código da Máquina: PR5678
+Produção Semanal: 10
+Produção Semanal Esperada: 58.8
+
+Código da Máquina: FU9012
+Produção Semanal: 25
+Produção Semanal Esperada: 73.5
+
+Código da Máquina: CO001
+Produção Semanal: 25
+Produção Semanal Esperada: 73.5
+
+Código da Máquina: FU0001
+Produção Semanal: 25
+Produção Semanal Esperada: 73.5
+
+Código da Máquina: PR6969
+Produção Semanal: 16
+Produção Semanal Esperada: 49.0
+
